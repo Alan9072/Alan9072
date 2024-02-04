@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alan9072
+- 👋 Hi, I’m Alan Joy
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on
