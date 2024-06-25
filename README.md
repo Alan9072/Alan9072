@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hi! I'm on a journey to master web development and sharpen my skills in data structures and algorithms (DSA). Currently exploring the endless possibilities of the web and diving deep into the intricacies of efficient problem-solving. Excited about building dynamic web applications and optimizing code for performance and scalability. Let's connect, learn, and code our way through the digital landscape! 💻✨
+Hi! I'm on a journey to master web development and sharpen my skills in data structures and algorithms(DSA). Currently exploring the endless possibilities of the web and diving deep into the intricacies of efficient problem-solving. Excited about building dynamic web applications and optimizing code for performance and scalability. Let's connect, learn, and code our way through the digital landscape! 💻✨
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://alan9072.github.io/Portfolio-Website/)
