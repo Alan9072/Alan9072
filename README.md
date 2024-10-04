@@ -7,7 +7,7 @@ Web Developer
 Hi! I'm on a journey to master web development & sharpen my skills in data structures and algorithms(DSA). Currently exploring the endless possibilities of the web and diving deep into the intricacies of efficient problem-solving. Excited about building dynamic web applications and optimizing code for performance and scalability. Let's connect, learn, and code our way through the digital landscape! 💻✨
 
 * 🌍  I'm based in India.
-* 🖥️  See my portfolio at [My Portfolio](http://alan9072.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [My Portfolio](https://alan9072.github.io/newportfolio/)
 * ✉️  You can contact me at [alanjoy456@gmail.com](mailto:alanjoy456@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
